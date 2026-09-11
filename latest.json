@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-10T14:00:17.417Z",
-  "validForDate": "2026-09-10",
+  "generatedAt": "2026-09-11T14:00:19.220Z",
+  "validForDate": "2026-09-11",
   "cacheTtlHours": 24,
   "supportedCurrencies": {
     "USD": {
@@ -67,7 +67,7 @@
   },
   "fx": {
     "base": "USD",
-    "date": "2026-09-10",
+    "date": "2026-09-11",
     "rates": {
       "USD": 1
     },
